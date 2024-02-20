@@ -32,6 +32,10 @@ body {
    line-height: 1.5;
 }
 
+.hero-section hr, .hero-filters hr{
+    color: var(--nav-buton-color);
+    size: 1px;
+}
 a {
     text-decoration: none;
 }
