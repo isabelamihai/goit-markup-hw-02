@@ -78,7 +78,7 @@ h2 {
     color:var(--title-color);
     font-weight: 700; 
     font-size: 36px;
-    line-height: 1.;
+    line-height: 1.1;
     /* letter-spacing: 2%; */
 }
 
@@ -107,7 +107,7 @@ h3 {
 
 .hero-filters .filters button {
     background-color: var(--nav-buton-color);
-    color:var(--action-color);
+    color:var(--service-color);
     border-radius: 4px;
     border-color:var(--buton-color);
     cursor: pointer;
@@ -124,6 +124,6 @@ h3 {
 .end-section{
     background-color:var(--title-color);
 }
-.end-text {
+.end-section .end-text {
     color:var(--nav-buton-color);
 }
