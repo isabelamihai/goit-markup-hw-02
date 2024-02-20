@@ -49,7 +49,20 @@ ul{
     font-style: normal;
 }
 
-.hero-section{
+.global-header .global-nav {
+    font-weight: 500;
+    font-family: var(--text-font-family);
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--title-color);
+}
+
+.global-header .global-nav a:hover {
+    color: var(--contacts-color_hover);
+    cursor: pointer;
+}
+
+.hero-section {
     background-color: var(--title-color);
     }
 
@@ -101,6 +114,7 @@ h3 {
    color: #ffffff;
    background-color: var(--contacts-color_hover);
 }
+
 .end-section{
     background-color: var(--title-color);
 }
