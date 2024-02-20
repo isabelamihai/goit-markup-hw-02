@@ -6,6 +6,9 @@
     color:#2E2F42;
 }
 
-ul {
-    list-style-type: none;
+body {
+   ul {list-style-type: none;}
+   a {
+    text-decoration: none;
+   }
 }
