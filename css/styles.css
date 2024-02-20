@@ -110,7 +110,7 @@ h3 {
     color:var(--service-color);
     border-radius: 4px;
     border-color:#E7E9FC;
-    border-width:1px;
+    border-width: 1px;
     cursor: pointer;
     font-weight: 500;
     font-size: 16px;
@@ -123,6 +123,9 @@ h3 {
    background-color:var(--color-hover);
 }
 
+.section-card{
+    background-color: var(--nav-buton-color);
+}
 .end-section{
     background-color:var(--title-color);
 }
