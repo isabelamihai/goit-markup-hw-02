@@ -35,6 +35,7 @@ body {
 .hero-section hr, .hero-filters hr{
     color: var(--nav-buton-color);
 }
+
 a {
     text-decoration: none;
 }
@@ -74,6 +75,7 @@ h1 {
     font-size: 56px;
     line-height: 1.07;
     color: #ffffff;
+    align-self: center;
     /* letter-spacing: 2%; */
 }
 
